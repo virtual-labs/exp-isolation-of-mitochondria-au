@@ -4,12 +4,20 @@
  
 Mitochondria are rod-shaped structures ranging from 2 to 8 ÃƒÅ½Ã‚Â¼m in length. They are found throughout the cytoplasm and may account for up to 20% of the cell's volume. The number of mitochondria in a cell depends upon the metabolic requirements of that cell and may range from a single large mitochondrion to thousands of the organelles. Mitochondria are considered as the "powerhouse of the cell" because It produces Adenosine Tri Phosphate (ATP), the energy currency by extracting energy from nutrient molecules. Number of enzymes and proteins present in the mitochondria, which helps in processing fats and carbohydrates obtained from food. ATP powers the cell's metabolic activities. This process is called aerobic respiration, that is the reason for animals breathing oxygen. The cells in the higher animals obtain energy from anaerobic respiration (in the absence of oxygen), so it does exist without mitochondria.
 
+
+<img src="images/1.jpg" title="" />
+
+
 The discovery of mitochondria came in 1886 when Richard Altman, a cytologist, identified the organelles by dye technique, and dubbed them as "bioblasts". He postulated that these structures were the basic units of cellular activity. Carl Benda, in 1898, coined out the term mitochondria. Actually, Albert von Kolliker should be credited with discovery of the existence of mitochondria around 1857. He was studying human muscle cells when he noted strange granules in them.
 
 &nbsp;
 
 #### Structure of Mitochondria
 Mitochondria are a double membranous organelle found in the cytoplasm of all eukaryotic cells. It contains the outer membrane and the inner membrane which is made up of proteins and phospholipids The space between the two membranes is called the inter-membrane space. The protein content in this space differs from that in the cytoplasm.
+
+
+<img src="images/2.jpg" title="" />
+
 
 The outer membrane of mitochondria is smooth, and it contains many of special proteins called porins, that allow the molecules to enter 5000 Daltons or less in weight to pass through it. Outer membrane is very permeable to nutrient molecules, ions, ATP and ADP molecules. The inner membrane is more complex than the outer membrane in structure because it contains the complexes of the electron transport chain and the ATP synthetase complex. It is selectively permeable and allows the passage of oxygen, carbon dioxide and water. It is composed of many proteins that play an important role of producing ATP and regulating transfer of metabolites across the membrane. Cristae, the infoldings in the inner membrane increase the surface area for maintaining the complexes and proteins that help in the production of ATP, the energy rich molecules. The matrix is a complex mixture of enzymes, play an important role for the synthesis of ATP molecules, special mitochondrial ribosomes, tRNAs and the mitochondrial DNA. It also contains carbon dioxide, oxygen and other recyclable intermediates. Many of the critical metabolic steps of cellular respiration are catalysed by enzymes that can diffuse through the mitochondrial matrix. The mitochondrial inner membrane embedded with other proteins involved in respiration, including the enzyme that generates ATP.
 
@@ -18,6 +26,9 @@ The outer membrane of mitochondria is smooth, and it contains many of special pr
 #### Unique Nature
  
 Although most of the genetic material of a cell is contained within the nucleus, the mitochondria have their own circular DNA. They have their own machinery for protein synthesis and reproduce by fission similarly bacteria can do. It is hypothesized that mitochondria have originated from bacteria by endosymbiosis because of the independence from the nuclear DNA and similarities with bacteria. Mitochondrial DNA is localized to the matrix, which also contains a host of enzymes, as well as ribosomes for protein synthesis.
+
+
+<img src="images/3.jpg" title="" />
 
 
 This molecule was caught in the act of replication; the arrows indicate the points at which replication was proceeding when the molecules was fixed for electron microscopy. The genome of the human mitochondrion, for example, consists of a circular DNA molecule containing 16,569 base pairs and measuring about 5ÃƒÅ½Ã‚Â¼m in length. The RNA and the polypeptides encoded by this DNA are just a small fraction (about 5%) of the number of RNA molecules and proteins needed by the mitochondrion.
@@ -88,3 +99,5 @@ Thus depending on the radius of centrifuge being used the Q value will vary for 
  
 The process of differential centrifugation can be illustrated as below:
 
+
+<img src="images/4.jpg" title="" />
