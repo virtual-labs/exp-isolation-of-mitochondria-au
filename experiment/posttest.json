@@ -2,38 +2,62 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      "question": "1) French press is an example for",
+      "answers": 
+      {
+        "a": "grinding",
+        "b": "cutting",
+        "c": "ultrasonic vibrations",
+        "d": "high pressure"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+
+{
+      "question": "2) Which is the most important function of mitochondria?",
+      "answers": 
+  {
+        "a": "maintenance of proper concentration of calcium ions.",
+        "b": "energy production",
+        "c": "it helps in the building of certain parts of the blood",
+        "d": "detoxifies ammonia"
+  },
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
-    }
+},
+
+
+{
+  "question": "3) Which organelle is considered the power house of the cell?",
+  "answers": 
+  {
+    "a": "lysosomes",
+    "b": "endoplasmic reticulum",
+    "c": "mitochondria",
+    "d": "chloroplast"
+  },
+  
+  "correctAnswer": "c",
+  "difficulty": "beginner"
+
+},
+
+
+{
+      "question": "4) Enzyme complexes (NADH dehydrogenase, b-c1 cytochrome, and cytochrome oxidase) are located in",
+      "answers": 
+  {
+        "a": "inner mitochondrial membrane",
+        "b": "outer mitochondrial membrane",
+        "c": "inter membrane space",
+        "d": "matrix"
+  },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+}
   ]
 }
