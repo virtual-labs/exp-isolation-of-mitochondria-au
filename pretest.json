@@ -1,0 +1,60 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1) Which organelle is considered the power house of the cell?",
+      "answers": 
+      {
+        "a": "lysosomes",
+        "b": "endoplasmic reticulum",
+        "c": "mitochondria",
+        "d": "chloroplast"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+{
+      "question": "2) Who coined the term mitochondria?",
+      "answers": 
+  {
+        "a": "Albert Von Kolliker",
+        "b": "Richard Altmann",
+        "c": "Albert Claude",
+        "d": "Carl Benda"
+  },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+},
+
+
+{
+      "question": "3) Chloroplast and mitochondria have their own genome:",
+      "answers": 
+  {
+        "a": "True",
+        "b": "False"
+  },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+},
+
+
+{
+      "question": "4) Enzyme complexes (NADH dehydrogenase, b-c1 cytochrome, and cytochrome oxidase) are located in",
+      "answers": 
+  {
+        "a": "inner mitochondrial membrane",
+        "b": "outer mitochondrial membrane",
+        "c": "inter membrane space",
+        "d": "matrix"
+  },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+}
+  ]
+}
